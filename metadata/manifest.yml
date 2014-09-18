@@ -72,3 +72,8 @@ Version-Overrides:
     - ruby-2.0
     - ruby
     - ruby(version) = 2.0
+
+Install-Build-Required: false
+
+source-Url: git://github.com/yanywang/dirruby20.git
+
